@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@wasmer/io-devices": "^0.10.2",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "snowpack": "^1.7.0"
