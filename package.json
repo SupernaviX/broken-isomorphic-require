@@ -13,6 +13,6 @@
     "express": "^4.18.2"
   },
   "devDependencies": {
-    "snowpack": "^1.7.0"
+    "snowpack": "^3.8.8"
   }
 }
